@@ -1,6 +1,6 @@
 {
   "name": "typescript-slugify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple slugify function",
   "main": "index.ts",
   "types": "index.d.ts",
