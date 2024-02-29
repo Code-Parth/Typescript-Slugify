@@ -17,3 +17,23 @@ or
 ```bash
 yarn add typescript-slugify
 ```
+
+## Usage
+
+```javascript
+import slugify from 'typescript-slugify';
+
+const originalString = "Hello World!";
+const slug = slugify(originalString);
+console.log(slug); // Output: hello-world
+```
+
+## API
+
+### slugify(input: string): string
+
+This function takes a string input and returns a slugified version of it, making it suitable for URLs.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
