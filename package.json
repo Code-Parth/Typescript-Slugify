@@ -1,0 +1,14 @@
+{
+  "name": "simple-slugify",
+  "version": "1.0.0",
+  "description": "A simple slugify function",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple-slugify"
+  ],
+  "author": "Code-Parth",
+  "license": "MIT"
+}
