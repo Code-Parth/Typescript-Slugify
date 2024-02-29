@@ -10,5 +10,9 @@
     "simple-slugify"
   ],
   "author": "Code-Parth",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Parth/Simple-Slugify.git"
+  }
 }
