@@ -3,11 +3,19 @@
   "version": "1.0.0",
   "description": "A simple slugify function",
   "main": "index.ts",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "simple-slugify"
+    "typescript-slugify",
+    "typescript",
+    "slugify",
+    "string",
+    "url",
+    "utility",
+    "npm",
+    "package"
   ],
   "author": "Code-Parth",
   "license": "MIT",
